@@ -1,6 +1,6 @@
 {
   "Name": "Tool Upgrade",
-  "Version": "1.1.2",
+  "Version": "1.1.1",
   "Author": "Flower Field"
   "Requires": ["ToolUpgrade.Shared"]
 }
