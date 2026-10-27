@@ -1,5 +1,6 @@
 {
   "Name": "Tool Upgrade",
-  "Version": "1.1.0",
-  "Author": "TonisGaming"
+  "Version": "1.1.2",
+  "Author": "Flower Field"
+  "Requires": ["ToolUpgrade.Shared"]
 }
