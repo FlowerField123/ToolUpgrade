@@ -20,6 +20,8 @@ If you have any ideas for what you might want to see in the future do leave your
 ## Installation
 * Download the latest version in release and place the .modcomponent file in mods folder
 
+* If you're using CandleLight, you can install CL_ToolUpgrade.modcomponent instead to receive an extra blueprint (Cooking Oil)
+
 * Requires [Modder's Tool Box](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases) and [ModComponent](https://github.com/dommrogers/ModComponent) with its dependencies
 
 ## Changelog
