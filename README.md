@@ -42,6 +42,7 @@ If you have any ideas for what you might want to see in the future do leave your
 **V1.1.1**
 
  * Refreshed the mod for TLD version 2.55 (By "refresh," I mean repackaged. No code was changed in this process)
+ * No version upgrade required, however the mod IS compatible with both version 2.58 AND Iron Road DLC
 
 ## Credits
 
